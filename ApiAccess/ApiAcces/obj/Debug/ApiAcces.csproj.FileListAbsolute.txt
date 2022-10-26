@@ -1,0 +1,11 @@
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\bin\Debug\ApiAcces.exe.config
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\bin\Debug\ApiAcces.exe
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\bin\Debug\ApiAcces.pdb
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\obj\Debug\ApiAcces.csproj.AssemblyReference.cache
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\obj\Debug\ApiAcces.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\obj\Debug\ApiAcces.csproj.CoreCompileInputs.cache
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\obj\Debug\ApiAcces.csproj.CopyComplete
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\obj\Debug\ApiAcces.exe
+C:\Users\tomla\source\repos\ApiAcces\ApiAcces\obj\Debug\ApiAcces.pdb
